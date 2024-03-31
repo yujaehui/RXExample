@@ -15,7 +15,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         guard let windowSecne = (scene as? UIWindowScene) else { return }
         window = UIWindow(windowScene: windowSecne)
-        window?.rootViewController = SimpleValidationViewController()
+        window?.rootViewController = NameTableViewController()
         window?.makeKeyAndVisible()
     }
 

@@ -20,6 +20,7 @@
 		094BEA442BB941EE00342DC3 /* SimpleTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094BEA432BB941EE00342DC3 /* SimpleTableViewController.swift */; };
 		094BEA462BB9485C00342DC3 /* SimplePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094BEA452BB9485C00342DC3 /* SimplePickerViewController.swift */; };
 		094BEA482BB94DFF00342DC3 /* SimpleValidationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094BEA472BB94DFF00342DC3 /* SimpleValidationViewController.swift */; };
+		094BEA4A2BB9573D00342DC3 /* NameTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 094BEA492BB9573D00342DC3 /* NameTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		094BEA432BB941EE00342DC3 /* SimpleTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewController.swift; sourceTree = "<group>"; };
 		094BEA452BB9485C00342DC3 /* SimplePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplePickerViewController.swift; sourceTree = "<group>"; };
 		094BEA472BB94DFF00342DC3 /* SimpleValidationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidationViewController.swift; sourceTree = "<group>"; };
+		094BEA492BB9573D00342DC3 /* NameTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				094BEA1B2BB85B2000342DC3 /* Info.plist */,
 				094BEA212BB930DF00342DC3 /* NumbersViewController.swift */,
 				094BEA432BB941EE00342DC3 /* SimpleTableViewController.swift */,
+				094BEA492BB9573D00342DC3 /* NameTableViewController.swift */,
 				094BEA452BB9485C00342DC3 /* SimplePickerViewController.swift */,
 				094BEA472BB94DFF00342DC3 /* SimpleValidationViewController.swift */,
 			);
@@ -165,6 +168,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				094BEA4A2BB9573D00342DC3 /* NameTableViewController.swift in Sources */,
 				094BEA312BB9362E00342DC3 /* NumbersViewController.swift in Sources */,
 				094BEA482BB94DFF00342DC3 /* SimpleValidationViewController.swift in Sources */,
 				094BEA122BB85B1E00342DC3 /* ViewController.swift in Sources */,
